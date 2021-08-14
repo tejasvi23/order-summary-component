@@ -14,8 +14,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tejasvi23/order-summary-component)
-- Live Site URL: [Add live site URL here](https://tejasvi23.github.io/order-summary-component/)
+- Solution URL: (https://github.com/tejasvi23/order-summary-component)
+- Live Site URL: (https://tejasvi23.github.io/order-summary-component/)
 
 ## My process
 
