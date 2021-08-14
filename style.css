@@ -97,7 +97,7 @@ body{
 .container .card .card-wrapper .description{
   font-size: 16px;
   font-weight: 500;
-  color: hsl(231,9,54);
+  color:rgb(128, 133, 118);
 }
 .container .card .card-wrapper .plan-card{
 background-color: rgb(242, 244, 253);
